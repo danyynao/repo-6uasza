@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 · qX15BULC -->
-## Notification 1/2
-Round: Round 1
-To: ssvvl85@aol.com, allison.ayers@hotmail.com
-At: 2026-09-16 15:49:50
-Id: qX15BULC
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: jnoddle@hotmail.com, bogdanavoicu@hotmail.com
+At: 2026-09-16 15:49:58
+Id: QsqUXOEK
